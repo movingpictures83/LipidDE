@@ -1,0 +1,2 @@
+Prefix plugins/LipidDE/example/
+Plugin LipidDE inputfile PQN.pdf.rds outputfile DE.rds
